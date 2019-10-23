@@ -1,0 +1,524 @@
+recency,frequency,monetary,company_id,address,province,district,village,phone_number
+2018-12-31,2,1382000.00,544,"Toko Susu Carissa, Jl. Buyut Kaifah Kp. Pulo Pisang RT02/03, Ds. Karang Anyar, Kec. Karang Bahagia, Kab. Bekasi 17530",Jawa Barat,Kab. Bekasi,Karanganyar,6287781877598
+2018-12-31,1,7200000.00,268,Perumahan Lembah Griya Indah (LGI) Blok B No.10 Jalan Raya Pertanian,Jawa Barat,Kota Depok,Cipayung Jaya,87870114650
+2019-01-02,1,5242000.00,210,"Jalan Pemuda Nomor 29 kavlin 9 RT3, RW4, Kranji Bekasi Barat",Jawa Barat,Bekasi,Kranji,62818124230
+2019-01-04,1,1918200.00,223,Jalan LAMPIRI RT 4 RW 2 (TOKO SUSU AZKA) KELURAHAN JATIBENING BARU KECAMATAN PONDOK GEDE BEKASI,Jawa Barat,Kota Bekasi,Jatibening Baru,628118453489
+2019-01-05,1,4684800.00,237,JLN PORIS RAWABACANG NO 38 RT 06 RW 13   Kota,Jawa Barat,PONDOK MELATI,Kota Bekasi,6289635466188
+2019-01-05,2,5273800.00,429,Jl.swatantra II no. 17,Jawa Barat,Kota Bekasi,Jatiasih,6281299298497
+2019-01-07,1,5453200.00,711,Jalan Lampiri rt 4 rw2,Jawa Barat,Pondok Gede,Bekasi,628118453489
+2019-01-08,1,20665000.00,75,/1 kelurahan karangasih cikarang utara depan HOLAN BAKERY,Jawa Barat,Kab. Bekasi,Karangasih,6287879434582
+2019-01-08,1,20320000.00,202,Jalan Tipar Halim 4 Rt6 Rw6 no 102,Jawa Barat,Depok,Mekarsari,6289636444086
+2019-01-09,1,1566400.00,580,"Komp ruko speed blok B No. 25, Jln. Gunung sahari XI",DKI Jakarta,Kota Jakarta Pusat,Gunung Sahari Utara,6281280909551
+2019-01-10,1,6101200.00,216,"Perumahan Cipondoh Makmur 
+Blok A8 No 21A
+Tangerang",Banten,Kota Tangerang,Cipondoh Makmur,6285297972228
+2019-01-10,1,1516800.00,732,"Perumahan Permata Pamulang, Blok i-7 RT 4 RW 5, No.4",Banten,Kota Tangerang Selatan,Bakti Jaya,6287784868175
+2019-01-10,1,4398400.00,867,perumahan Green Lake City Cluster East Asia EA15 No. 56,Banten,Cipodoh,Kota Tangerang,6285333531737
+2019-01-10,2,19509200.00,427,"Toko Susu Bila Kids Layanan Grosir. Ruko Nirwana Estate Blok B No.P Jl.Raya Cikaret Cibinong, Bogor. Samping Bank Mandiri KCP Puri Nirwana",Jawa Barat,Kab. Bogor,Pakansari,6281222846425
+2019-01-11,1,1993000.00,872,Jl. Bandengan Utara Gang Buntek No. 85A/96 Rt 3 Rw 16,DKI Jakarta,Kota Jakarta Utara,Penjaringan,628119258378
+2019-01-11,1,4165600.00,718,Jalan Rawajati Barat 3 Nomor 9 rt 02 rw 04,DKI Jakarta,Kota Jakarta Selatan,Rawa Jati,6281285013512
+2019-01-12,1,1771600.00,887,Jl. Duri Raya No. 38 RT 001/002,DKI Jakarta,Gambir,Jakarta Pusat,6281294400048
+2019-01-14,1,9824800.00,269,"Toko Palito
+Jl Pusdiklat Depnaker No 02 RT 07/06 (depan indomart kampung makasar)",DKI Jakarta,Kota Jakarta Timur,Makasar,6281213128262
+2019-01-14,1,99976000.00,956,Jl. Nurul ISlam 5 RT 5 RW 18 No. 28,Jawa Barat,Kota Bekasi,Jati Mekar,6281517550865
+2019-01-15,1,3212800.00,808,Jl Palmerah Utrara No 111B,DKI Jakarta,Kota Jakarta Pusat,Gelora,6285959598589
+2019-01-15,3,48045200.00,81,"Jl. Ampera VI No. 23B, Rt 8 Rw 9. Depan Wisma Ampera 6",DKI Jakarta,Kota Jakarta Utara,Pademangan Barat,6281280081435
+2019-01-15,1,1193200.00,499,Jl Sektor VII rt.04 rw.08 no.2 Kel.Sudimara Jaya,Banten,Kota Tangerang,Sudimara Jaya,628158049037
+2019-01-15,1,34959400.00,977,jl pondok kopi viii blok h1 no 14,DKI Jakarta,Kota Jakarta Timur,Pondok Kopi,6285219988350
+2019-01-16,2,11911600.00,682,Jln industri pasir gombong no 34,Jawa Barat,Kab. Bekasi,Pasir Gombong,6289508934710
+2019-01-16,2,10751200.00,542,Apartemen semanggi 810 Jl Gatot subroto no 53B (dibelakang dipo center),DKI Jakarta,Kota Jakarta Barat,Slipi,628174948028
+2019-01-16,3,10709200.00,280,Jl. Hj Jole No.28 C,Jawa Barat,Mustika Jaya,Bekasi,6281397121069
+2019-01-17,1,921400.00,1019,"Toko susu bilal, jalan KH mas Mansyur (depan komp. Kunciran Mas Permai)",Banten,Pinang,Kota Tangerang,628118506202
+2019-01-18,1,4178200.00,915,"Jl. Raya bantargebang setu no 100, depan PLN mustikajaya, cimuning",Jawa Barat,Kota Bekasi,Cimuning,6282211748790
+2019-01-23,1,3744000.00,149,"Jl. Danau Towuti I Blok B 12 No. 2 RT 003 RW 011 KEL. Harapan Jaya, KEC. Bekasi Utara.",Jawa Barat,Kota Bekasi,Harapan Jaya,6287874425666
+2019-01-23,3,14833400.00,666,Pondok ungu permai Sektor 5 blok A12 no 12 rt007 rw024,Jawa Barat,Kota Bekasi,Kali Abang Tengah,6289666892880
+2019-01-23,2,945800.00,618,Jln pasir gadung kp pengkolan pasir jaya rt01/01 cikupa tangerang banten,Banten,Kab. Tangerang,Cikupa,6281807363535
+2019-01-23,1,5327200.00,996,jln raya cimpaeun-tapos rt01 rw 05 samping alfamart cilangkap kota depok ),Jawa Barat,Kota Depok,Cimpaeun,6282210425008
+2019-01-23,2,13755200.00,871,Nanda's mom and child Babyshop. Jalan Sultan Agung Km 28 Nomor 4,Jawa Barat,Medan Satria,Kota Bekasi,6281222580050
+2019-01-24,1,718000.00,794,Jl Kerosin V no 7 komp Pertamina Pd Ranji,Banten,Kota Tangerang Selatan,Pondok Ranji,628158768014
+2019-01-28,2,7117000.00,990,Jl. Reni Jaya Bar 1 No 85 RT 01 RW 09,Jawa Barat,Kota Depok,Pondok Petir,85276210555
+2019-01-28,4,260237000.00,247,Jl. Meruya Ilir Raya No.8A-B,DKI Jakarta,Kota Jakarta Barat,Meruya Utara (Ilir),62818696788
+2019-01-29,1,4584000.00,1243,Baby shop Netty Jl raya serpong puspitek No. 12 RT 04/04,Banten,Tangerang selatan,Serpong,6281380449573
+2019-01-30,4,2595600.00,435,jalan parakan saat no 7 rt 6 rw 11,Jawa Barat,Kota Bandung,Cisarenten Bina Harapan,6287885440487
+2019-01-31,1,3358000.00,1277,Jl. Cengkareng Indah Blok HC no. 5 RT.007 RW.014,DKI Jakarta,Kota Jakarta Barat,Kapuk,628568738856
+2019-01-31,3,9733400.00,807,Jl. pintu gerbang timur vila gading harapan,Jawa Barat,Kab. Bekasi,Kebalen,6281233231425
+2019-02-01,6,318922200.00,367,"Jl. Meruya Ilir Raya 8A-B, Jakarta Barat",DKI Jakarta,Kota Jakarta Barat,Meruya Utara (Ilir),62818696788
+2019-02-06,1,1746800.00,1388,Jl. Jelambar selatan 16 no 6c/1c RT 01 RW 09,DKI Jakarta,Kota Jakarta Barat,Jelambar Baru,6282211887872
+2019-02-08,1,46703200.00,1416,jl pondok kopi 8 blok h1 no 14,DKI Jakarta,Kota Jakarta Timur,Pondok Kopi,6281513573699
+2019-02-08,1,7312600.00,1413,"Rumah susu pamulang, pamulang permai blok Ax18/3 (pas di belakang superindo pamulang1) Tangerang selatan",Banten,kota Tangerang Selatan,Pamulang,6282125438057
+2019-02-08,2,59213000.00,842,Janur Asri 3 Blok QJ 15 No.19,DKI Jakarta,Jakarta Utara,Kelapa Gading Barat,6287775258308
+2019-02-08,1,248400.00,473,"Jl. Banteng NO.6 RT.003/015 Kranji 
+Bekasi barat",Jawa Barat,Kota Bekasi,Kranji,6282299353642
+2019-02-12,4,39722200.00,803,Rumah a.n Bapak Ibnu dpn masjid Perumahan puri asih blok F No.10 RT 002 R.W 005,Banten,Kab. Tangerang,Sukaasih,6289631311728
+2019-02-12,7,43882600.00,59,Jl. Mangga Dua Raya Ged. Harcomas Lantai Dasar No. 89,DKI Jakarta,Kota Jakarta Pusat,Mangga Dua Selatan,83807074141
+2019-02-12,1,1302600.00,1507,Jl Swadarma Raya No 42 Rt 07 Rw 03 Kel Srengseng Kec Kembangan Jakarta Barat,DKI Jakarta,Kota Jakarta Barat,Srengseng,6281314728229
+2019-02-13,1,419600.00,1443,Jl. Kh hasyim ashari gg eretan rt 002/02/ no 112,Banten,Kota Tangerang,Cipondoh,6281382390088
+2019-02-13,1,1970400.00,1491,Taman pinang indah,Banten,Kota Tangerang,Nerogtog,6281298813965
+2019-02-13,1,780800.00,1363,"Bogor Nirwana Residence, Cluster Harmony I Blok  S3 No : 18-20, Kel Mulyaharja. Kec Bogor Selatan. Kota Bogor. kodepos 16134.",Jawa Barat,Kota Bogor,Mulyaharja,62818106410
+2019-02-14,6,49960200.00,262,Komplek Ruko Pondok Dustira Jl. Parikesit No. B6 rt02/08 No F 5,Jawa Barat,Kab Bandung Barat,Desa Gadobangkong,6287780812046
+2019-02-15,1,26817200.00,1558,"Komplek Duta Harapan Indah Blokk NN no. 1, Jl. Kapuk Muara",DKI Jakarta,Jakarta Utara,Kapuk Muara,6281513777704
+2019-02-16,3,6041600.00,1303,"Bogor Nirwana Residence, Cluster Harmony I Blok  S3 No : 18-20",Jawa Barat,Kota Bogor,Mulyaharja,6281218909020
+2019-02-16,3,13621600.00,1304,Perumahan Cengkareng Indah blok DC no. 29 RT. 005/014,DKI Jakarta,Kota Jakarta Barat,Kapuk,628568108575
+2019-02-18,3,9676600.00,1284,"Street View Plaza Kaha, Jl. KH. Abdullah Syafei No.21 C, RT.5/RW.6",DKI Jakarta,Kota Jakarta Selatan,Bukit Duri,6281389061316
+2019-02-18,3,9230800.00,845,Perumanahan BP TWP Blok I 27 (Depan Pesantren Baitussalam) Rt 001 / Rw 007,Jawa Barat,Kab. Bogor,Kalisuren,6282227439922
+2019-02-18,5,28133800.00,257,Jln Cipinang Pulo No 4,DKI Jakarta,Kota Jakarta Timur,Cipinang Besar Utara,6282392439263
+2019-02-19,21,302594800.00,203,Perumahan Lembah Griya Indah (LGI) Blok B No.10 Jalan Raya Pertanian,Jawa Barat,Kota Depok,Cipayung Jaya,6287870114650
+2019-02-21,1,656100.00,1634,"perum graha mustika cileungsi blok C12 no.12, desa bojong klapanunggal, bogor",Jawa Barat,Kab. Bogor,Bojong,62817169794
+2019-02-21,1,30847800.00,1538,Ruko CBD Ciledug Blok A6 no. 3,Banten,Kota Tangerang,Karang Tengah,6287877920869
+2019-02-23,6,100290800.00,416,Jl KRT Radjiman Widyodiningrat No 22 RT 13 RW 12,DKI Jakarta,Kota Jakarta Timur,Jatinegara,81221000520
+2019-02-23,2,7560200.00,841,Metland cibitung cluster kemanggisan blok O 17 no 18 rt 01 rw 20,Jawa Barat,Kab. Bekasi,Telaga Murni,6283815684809
+2019-02-25,6,21862400.00,90,"Toko Susu ZalfaiZJl. Albaidho I Rt005/06 No 9Lubang Buaya, Jakarta Timur 13810",DKI Jakarta,Kota Jakarta Timur,Lubang Buaya,6281310837920
+2019-02-25,1,1565000.00,1673,Rawa bebek RT.011/RW.010 no.54,Jawa Barat,Kota Bekasi,Kota Baru,6282124158212
+2019-02-26,2,38280000.00,1245,Kp.Telajung Rt. 02 Rw. 08 Desa Telajung Kecamatan Cikarang Barat Kabupaten,Jawa Barat,Bekasi,Desa Telajung,6289675414043
+2019-03-01,7,60460800.00,520,Jalan Fajar baru Selatan Nomor 46 Depan Sekolah Strada,DKI Jakarta,Kota Jakarta Barat,Cengkareng Timur,6281382198700
+2019-03-02,1,1975600.00,1477,"Ceger Residence, Jl. SMPN 160 No 7 RT 01 RW 03",DKI Jakarta,Jakarta Timur,Ceger,6287839378080
+2019-03-02,5,29121600.00,800,"jl. kemuning raya no. 2b, sumur bor, cengkareng, jakarta barat",DKI Jakarta,Kota Jakarta Barat,Cengkareng Barat,6281287621968
+2019-03-04,1,857000.00,1244,"JLN. K.H.MAS MANSYUR
+RUMAH SUSUN TANAH ABANG
+BLOK 11 LT 1 NO 4 TLP (021) 3911700
+TANAH ABANG - JAKARTA PUSAT",DKI Jakarta,Kota Jakarta Pusat,Kebon Kacang,6281288886870
+2019-03-05,4,19949800.00,1078,"Jl.prapatan no.10 cibarusah kota 
+ kab.bekasi  jawa barat",Jawa Barat,Kab. Bekasi,Cibarusahkota,6282114904074
+2019-03-06,1,1974000.00,1846,jl.Bintara 4 rt3rw15 no39,Jawa Barat,Kota Bekasi,Bintara,62895331577996
+2019-03-08,1,5246400.00,1868,"Bumi Permata Indah C1/7, Jl Raden Saleh Raya",Banten,Kota Tangerang,Karang Mulya,62817777902
+2019-03-12,12,96775800.00,1131,Layar permai 10 nomor 30,DKI Jakarta,Kota Jakarta Utara,Kapuk Muara,6285288886398
+2019-03-15,1,152100.00,1929,Jl.Salak A.22 Jakasampurna Masnaga Bekasi Barat,Jawa Barat,Kota Bekasi,Jaka Sampurna,628111679338
+2019-03-16,4,465551800.00,215,EXPEDISI CV.SUKSES MAKMUR ANGKUTAN green sedayu bizz park blok : DM 16 no. 89 - 91 jln daan mogot km.18,DKI Jakarta,Kota Jakarta Barat,Kalideres,6287897241590
+2019-03-18,11,12149000.00,577,"Perumahan citra raya
+Graha siena 2 m17/7
+Ciakar - tangerang",Banten,Kab. Tangerang,Ciakar,6281210137155
+2019-03-20,1,2551300.00,1917,Jln . Gading X no.49,DKI Jakarta,Kota Jakarta Timur,Pondok Bambu,62895347669754
+2019-03-20,8,185838900.00,217,JL. Pemuda No. 78 Rt.003 Rw.04 (Toko Mitra Susu)Kel. Kranji Kec. Bekasi Barat Kota Bekasi,Jawa Barat,Kota Bekasi,Kranji,6281396677699
+2019-03-20,2,4263200.00,1614,Toko Mustika Susu Jl. MUSTIKA JAYA NO.82 MUSTIKA JAYA BEKASI 17158,Jawa Barat,Kota Bekasi,Mustika Jaya,6282220350779
+2019-03-20,3,2576000.00,496,Jl. Cipinang Timur Raya RT/RW . 001/03 Kel. Cipinang kec. Pulogadung (toko susu murah),DKI Jakarta,Kota Jakarta Timur,Cipinang,6281286648028
+2019-03-21,1,22632600.00,2033,JALAN CIGURIANG 17,Jawa Barat,Kota Bandung,Balong Gede,6281293963477
+2019-03-22,1,6187000.00,1732,Jln.serdang baru1 no.30 Rt2 Rw5,DKI Jakarta,Kota Jakarta Pusat,Serdang,6282114118087
+2019-03-25,1,1598400.00,2103,Jln. Waru no. 3 gg 6 blok i (sanggar senam lisa),DKI Jakarta,Kota Jakarta Utara,Lagoa,6281212892001
+2019-03-25,9,108692800.00,212,Gading Serpong Sektor 7 A Blok DB 1/7 Kota Tangerang Selatan,Banten,Kabupaten Tangerang,Pakulonan Barat,628170087009
+2019-03-27,5,382424600.00,1292,"Jalan poris indah blok c3/5A, cipondoh, cipondoh indah",Banten,Kota Tangerang,Poris Plawad Indah,6281269967728
+2019-03-30,1,757000.00,1090,"toko polkadots (depan masjid at taqwa)
+jl kalisari no 1, rt004/001 , kalisari, pasar rebo, JAKTIM",DKI Jakarta,Kota Jakarta Timur,Kalisari,6281293482512
+2019-04-01,5,5790000.00,672,Pd Bulak Cinangka RT02 RW02 No 01,Jawa Barat,Kota Depok,Cinangka,6281212448004
+2019-04-01,3,14594400.00,1546,"""Jalan Kramat Jaya Gg 2 blok F No 22 RT 005/007",DKI Jakarta,Jakarta Utara,Semper Barat,628993167196
+2019-04-02,2,19844000.00,2136,Jalan sunter mas barat 1 blok H9 no.11 sunter jaya,DKI Jakarta,Kota Jakarta Utara,Sunter Jaya,62816758021
+2019-04-04,2,1514000.00,1521,"Jl. Ir.  SutamJL Raya Ir. Sutami, Km. 4 No. 21, Lontar, Kemiri, Lontar, Kemiri, Tangerang, Banten 15530, Indonesia",Banten,Kab. Tangerang,Lontar,6283877265020-085892652645
+2019-04-04,4,39567000.00,1249,"Jl. Palmerah Barat I no. 58, RT/RW: 05/07",DKI Jakarta,Kota Jakarta Barat,Palmerah,6281290050092
+2019-04-04,1,2964000.00,2192,"Deretan Warung Umbara atau soto betawi di Puji. Jl. Durian Dalam Rt 001 Rw008, kp rawa bebek Kota Baru, Bekasi barat, Jawa Barat",Jawa Barat,Kota Bekasi,Kota Baru,6282223289035
+2019-04-04,7,318855000.00,1610,Jalan Tanjung Barat Raya Lama No.145B (Gema Motor) Belakang Universitas Tama Jagakarsa,Jawa Barat,Kota Jakarta Selatan,Pasar Minggu,6287880433111
+2019-04-08,1,698100.00,2215,"President Special Needs Centre, Jl KH Dewantara Kav 3B Jababeka Education Park Cikarang Baru",Jawa Barat,Kab. Bekasi,Simpangan,6285694769479
+2019-04-09,2,1673000.00,1301,"Jl. Grogol raya RT 06/01 No. 47B, Kontrakan Haji bambang, Samping Graha Kanada",Jawa Barat,Kota Depok,Grogol,6281318806821
+2019-04-09,2,5620000.00,2220,"Jl. Serdang Baru Raya Rt/Rw 17/05 
+No.3 Kemayoran Jakpus.",DKI Jakarta,Kota Jakarta Pusat,Sumur Batu,6281375106584
+2019-04-12,5,52012800.00,1400,jalan cikaso selatan 40,Jawa Barat,Kota Bandung,Sukamaju,628112212512
+2019-04-12,1,22030000.00,1618,Grand Duta Tangerang Cluster Emereld Blok E3 No 98 Gebang Raya,Banten,Kota Tangerang,Periuk,6285311684995
+2019-04-15,1,1482000.00,2221,"Jalan raya Rawa Kuning, rt6 ww16 no 25",DKI Jakarta,Kota Jakarta Timur,Pulo Gebang,6281399174456
+2019-04-18,1,1907200.00,2392,"Villa Regency tangerang 2, blok AD 5 no.4, patokannya SEKOLAH TARSISIUS VIRETA, sebelah rumah makan ayam bakar 3 putri.",Banten,Kab. Tangerang,Gelam Jaya,6281287327978
+2019-04-20,1,11946400.00,2287,Edisan susu Jl.Villa Pertiwi Blok E6 No.6 Sukamaju Cilodong 16415,Jawa Barat,Kota Depok,Sukamaju,6281928109000
+2019-04-23,1,52240000.00,2679,Perumahan poris paradise eksklusife blok c7 No9,Banten,Kota Tangerang,Batuceper,6285313067575
+2019-04-24,1,9690400.00,2802,"Toko susu mimi
+Pasar segar graha raya blok RA 1 no.22
+Kel.pondok jagung
+Kec.serpong utara
+Tangerang selatan",Banten,Kota Tangerang Selatan,Pondok Jagung Timur,6281806598072
+2019-04-25,1,304400.00,2835,Dsn. Alang lanang rt. 07/ rw. 03,Jawa Barat,Kab. Karawang,Sukatani,6281293456239
+2019-04-29,7,41307800.00,1111,Jalan H.Djole No.28C Pedurenan Mustika Jaya,Jawa Barat,Kota Bekasi,Pedurenan (Padurenan),6281382333900
+2019-04-30,1,1290800.00,3038,"Buana Gardenia, Blok C5 No.22 Pinang Tangerang Banten 15145",Banten,Kota Tangerang,Pinang,6281540919665
+2019-04-30,1,4408000.00,76,Jalan Ratu Mawar Blok L no. 32 Perumahan Taman cosmos RT02/ RW01. Kedoya Utara. Jakarta Utara. 11520.,DKI Jakarta,Kota Jakarta Barat,Kedoya Utara,6285216039939
+2019-04-30,1,373500.00,2971,"Victoria Hills Residence blok E-77
+Jl. Tole Iskandar No.33, Depok, Pancoran MAS, Kota Depok, Jawa Barat 16412",Jawa Barat,Kota Depok,Sukmajaya,6281918701729
+2019-05-02,2,12444000.00,1101,Cluster krisan b71/2 banjarwijaya,Banten,Kota Tangerang,Cipondoh,62nixieamie@gmail.com
+2019-05-02,1,2242200.00,3096,Perum Griya indah cikiwul no.B17 RT04. RW03,Jawa Barat,Kota Bekasi,Cikiwul,6281297176402
+2019-05-02,1,8703400.00,3159,jl janur elok 5 blok QD 6 no 5,DKI Jakarta,Kota Jakarta Utara,Kelapa Gading Barat,6281389592211
+2019-05-03,11,190255200.00,248,Jl. Delta Raya Serdang No.35 RT5 RW 7,DKI Jakarta,Kota Jakarta Pusat,Serdang,6287889805988
+2019-05-03,1,798800.00,2626,Jl haji saiman rt02 rw02 ds gandasari,Jawa Barat,Kab. Bekasi,Gandasari,6285292757374
+2019-05-04,1,398400.00,2338,Kebagusan IV Dalam No. 53. Rt.008/Rw.04. Kebagusan. Ps. Minggu. Jakarta Selatan,DKI Jakarta,Kota Jakarta Selatan,Kebagusan,6281282761867
+2019-05-04,2,8622400.00,2845,Green lake city cluster amerika. Rukan wallstreet blok b no 058-059. Jl. Green lake city boulevard,DKI Jakarta,Kota Jakarta Barat,Duri Kosambi,6283897987048
+2019-05-06,1,1570000.00,3293,"Jl. Janur Hijau 2, Blok II, No. 11 RT/RT 003/010, Kel. Rawabadak, Kec. Koja, Jakarta Utara 14230",DKI Jakarta,Kota Jakarta Utara,Rawa Badak Utara,6282114141244
+2019-05-06,1,711400.00,3228,"RS Grand Family Lantai 5, Jalan Pantai Indah Selatan 1, Komplek Elang Laut Boulevard Kavling 1, Nomor 1",DKI Jakarta,Kota Jakarta Utara,Pejagalan,6287875385434
+2019-05-06,1,1537200.00,3130,"Cinere Residence Blok G2 No.18
+Kel.Meruyung",Jawa Barat,Kota Depok,Meruyung,6281316629577
+2019-05-06,5,24917200.00,1555,Jl. Babakan Pocis Rt 002/001 no. 22,Banten,Tangerang selatan,Bakti Jaya,6285853986081
+2019-05-07,1,418400.00,3241,kampung mangga jl.h.nawar terusan Rt.009 Rw.02 No.59,DKI Jakarta,Kota Jakarta Utara,Tugu Selatan,6287881815711
+2019-05-07,1,2162000.00,3180,Bumi Serpong Residance Blok I No.33,Banten,Kota Tangerang Selatan,Serpong,6282121178281
+2019-05-07,1,4493200.00,1826,"Komplek Taman Villa Meruya, Blok H5 Nomer 2",Banten,Kota Tangerang,Karang Mulya,6281219720785
+2019-05-07,4,52012900.00,389,Firdaus Residence 2 blok.J 1 no.17 RT/RW.01/12,Jawa Barat,Kab. Bekasi,Cibarusahkota,6281281953182
+2019-05-08,1,23980000.00,1781,Perumahan Citra Grand Cluster dense Blok P8 No18,Jawa Barat,Kota Bekasi,Jatikarya,6281510400302
+2019-05-09,5,60187400.00,1422,"Jl. Pangeran Jayakarta Kav 121%2F24 Mangga Dua Selatan Sawah Besar Jakarta Pusat DKI Jakarta, RT.8/RW.7, Mangga Dua Sel., Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10730",DKI Jakarta,Kota Jakarta Pusat,Mangga Dua Selatan,6282183560055
+2019-05-13,2,8631400.00,2249,Jl.tole Iskandar no.22 depok,Jawa Barat,Kota Depok,Harjamukti,6281311514940
+2019-05-13,3,4502200.00,1182,Jalan keadilan no 06 (TIKI) RT 01 RW 02,Jawa Barat,Kota Depok,Rangkapanjaya Baru,6282225548267
+2019-05-14,1,4870000.00,175,Villa mutiara serpong blok G1 NO 66 RT 003 RW 012 kel pondok jagung timur,Banten,Kota Tangerang Selatan,Pondok Jagung Timur,628122012445
+2019-05-14,5,83156200.00,117,Poins Square Mall. Lantai1 No 78A. JAM BUKA : 11SIANG-7MALAM,DKI Jakarta,Kota Jakarta Selatan,Lebak Bulus,62085775074229 - 081807802919
+2019-05-14,8,77503800.00,183,Jln.Cipinang Pulo No 4 RT 07 RW 14 cipinang besar utara jatinegara jakarta timur.,DKI Jakarta,Kota Jakarta Timur,Cipinang Besar Utara,6282392439293
+2019-05-14,1,371500.00,3687,JL.Walang Baru Raya no.10C (depan taman walang) Tugu Utara Jakarta Utara,DKI Jakarta,Kota Jakarta Utara,Tugu Utara,6281285967776
+2019-05-14,1,7529200.00,3453,Perumahan Citralake Sawangan Cluster Green Victoria F4 No 3 Bojongsari Depok,Jawa Barat,Kota Depok,Bojong Sari (Lama),6281322233836
+2019-05-14,1,3020800.00,886,Jl. Raya Setu Cipayung no. 201 Rt 07/04,DKI Jakarta,Kota Jakarta Timur,Setu,6281214759624
+2019-05-16,1,17860000.00,3834,JL. ARIA PUTRA NO. 19 RT 004 / 019,Banten,Kota Tangerang Selatan,Kedaung,6285779597431
+2019-05-16,1,528000.00,3910,Green Paradise Citayam Blok i 7,Jawa Barat,Kab. Bogor,Ragajaya,6281297906515
+2019-05-17,4,11391200.00,1869,Jl. Cipinang cempeak 3 No. 2A,DKI Jakarta,Kota Jakarta Timur,Cipinang Cempedak,6281808395335
+2019-05-18,1,240400.00,4113,Jl.Cilenggang 2 Rt.08 Rw.03 No.2 ( Depan kantor kelurahan Cilenggang ),Banten,Kota Tangerang Selatan,Cilenggang,6281574542341
+2019-05-18,4,28099600.00,271,Jalan Jelambar Baru V Nomor 15A,DKI Jakarta,Grogol petamburan,Jakarta Barat,628567534353
+2019-05-20,2,78080000.00,724,PT Nadyne Global Niaga Jalan Benda Raya No 92 Kemang Kota Jakarta Selatan,DKI Jakarta,Pasar Minggu,Jakarta Selatan,6285710019305
+2019-05-20,2,98217200.00,208,Jl tunas beringin no 20a komplek dki sunter jaya rt 11/3 jakarta utara,DKI Jakarta,Kota Jakarta Utara,Sunter Jaya,6287775009088
+2019-05-21,1,1506000.00,3905,"Taman malaka barat 1A blok E9 No.3
+Dekat Masjid Sabilul Huda
+Pondok kelapa",DKI Jakarta,Kota Jakarta Timur,Pondok Kelapa,6281210991619
+2019-05-21,4,88688000.00,1659,Jl. Sili Raya No 48B RT/RW : 015/012,DKI Jakarta,Kota Jakarta Utara,Pejagalan,6285215499345
+2019-05-22,34,404776400.00,211,"Jln Prambanan Raya No 14 Cibodas Baru RT 9 RW 9 (Perumnas 2) Kota Tangerang, Banten, 15138",Banten,Tangerang,Cibodas Baru,6282158085035
+2019-05-22,4,103776800.00,249,Pondok dukuh indah 5 no 10 rt 12 rw 4 jl haji irun,DKI Jakarta,Kota Jakarta Timur,Dukuh,628999239531
+2019-05-22,1,658600.00,4413,Perum. Duta harapan jl duta graha x no 43 blok e7,Jawa Barat,Kota Bekasi,Harapan Baru,6281310626659
+2019-05-22,14,159180900.00,83,"TIPAR CAKUNG NO 3. RT 01/01
+SEMPER BARAT, JAKARTA UTARA
+DEPAN BANK BRI SEMPER BARAT",DKI Jakarta,Kota Jakarta Utara,Semper Barat,6281211697205
+2019-05-24,3,121422000.00,1643,Jl. Kembang permai blok i 7 no 31 (samping Pasar puri indah),DKI Jakarta,Jakarta Barat,Kembangan Selatan,628223272998
+2019-05-24,7,49593400.00,2854,Toko susu Mimi.             Pasar segar graha raya blok RA 1 No.22,Banten,Kota Tangerang Selatan,Pondok Jagung Timur,6289668614628
+2019-05-27,2,325000.00,2902,Jl. Kamboja Raya No.65 Rt003/003,Banten,Kota Tangerang,Nusa Jaya,6281389751559
+2019-05-27,1,4113200.00,3316,"Orchid park residence jl orchid 3 blok h14
+Gebang raya - periuk
+Tangerang",Banten,Kota Tangerang,Gebang Raya,6285312992133
+2019-05-27,6,6182800.00,154,"Jl. Kalibata Timur Raya no. 24 RT 08 RW 08, Kalibata, Jakarta Selatan",DKI Jakarta,Kota Jakarta Selatan,Kalibata,628155557255
+2019-05-27,4,3367600.00,1821,"Jl kh hasyim ashari pinang, gang muhamd cup, rt 04 rw 02, kelurahan pinang, kecamatan pinang, kota tangerang",Banten,Kota Tangerang,Pinang,6281318293759
+2019-05-27,2,1337100.00,4474,Petemon 1 no 58 belakan sby,Jawa Timur,Kota Surabaya,Petemon,6281217491338
+2019-05-27,1,21326800.00,4443,Bandengan utara gang buntek no 85a/96 rt 3 rw 16,DKI Jakarta,Kota Jakarta Utara,Penjaringan,628119258378
+2019-05-27,8,532784500.00,3122,Perum grand sutra blok f10/8 rt 14 rw 10 desa gelam jaya,Banten,Kab. Tangerang,Gelam Jaya,6287771133794
+2019-05-27,2,17332400.00,4381,"Jl. Cendana Raya Blok E No.7, RT.4/RW.10, Cipondoh Makmur, Kec. Cipondoh, Kota Tangerang, Banten 15148, Indonesia
+
+(Patokanny tembok bolong dekat smp immaculata , rumahny di hug warna pagar biru )",Banten,Kota Tangerang,Poris Plawad Indah,6282260613388
+2019-05-27,8,21549000.00,955,Ruko Mutiara Taman Palem Blok C7 No 33,DKI Jakarta,Kota Jakarta Barat,Cengkareng Timur,6281310570658
+2019-05-28,1,21040000.00,4498,Cluster palem 11 no 9 taman royal 3 poris plawad tangerang,Banten,Kota Tangerang,Poris Plawad,6285642642421
+2019-05-29,4,24291000.00,167,Jl.setia 2A no.63 Jatiwaringin pondok gede Bekasi 17411,Jawa Barat,Kota Bekasi,Jatiwaringin,6285819550021
+2019-05-29,6,88592800.00,2709,Poris paradise ekslusif blok c7 no 9Masuk dari sebelah bank mandiri,Banten,Kota Tangerang,Poris Gaga,6285313067575
+2019-05-29,17,222405500.00,104,Jl. Pulo Mawar I No.37 RT.005/04,DKI Jakarta,Kota Jakarta Selatan,Grogol Utara,628568896701
+2019-05-31,2,2645200.00,4409,Perumahan binong permai blok b 37 no 6,Banten,Kab. Tangerang,Binong,6281297973350
+2019-05-31,9,125658800.00,428,"Perumahan Jatinegara Indah Blok CA1 no44, cakung jakarta timur 13930",DKI Jakarta,Kota Jakarta Timur,Jatinegara,6281322242445
+2019-06-10,3,29544400.00,184,PERUMAHAN HARAPAN INDAH JALAN UTAMA RUKO HELICONIA HO1 NO.61,Jawa Barat,Kab. Bekasi,Pusaka Rakyat,6281213153018
+2019-06-10,1,702400.00,4630,"Taman Meruya Ilir Blok C4 No.8, Kel. Meruya Utara, Kec. Kembangan, Jakarta Barat",DKI Jakarta,Kota Jakarta Barat,Meruya Utara (Ilir),628128211347
+2019-06-10,6,134736200.00,239,"Jl. Masda 3 No. 11 , Teluk Gong Rt. 010 Rw. 009",DKI Jakarta,Penjaringan,Jakarta Utara,6282112747964
+2019-06-11,3,41209200.00,130,Jl. Cikaso selatan 40,Jawa Barat,Kota Bandung,Sukamaju,628112212512
+2019-06-12,4,103809600.00,287,"Toko UFO Susu No 3A Teluk Gong Penjaringan, Jalan Aladin RT 5 RW 6",DKI Jakarta,Kota Jakarta Utara,Pejagalan,6281385477789
+2019-06-12,12,25307900.00,359,Jl Rawasari selatan no 50. (sebrang hokben),DKI Jakarta,Kota Jakarta Pusat,Rawasari,6287883366992
+2019-06-13,2,510800.00,4189,Perumahan pesona Laguna. Jalan gurame II blok c5 no 6. Cilangkap. Tapos. Depok,Jawa Barat,Kota Depok,Cilangkap,628978316649
+2019-06-13,1,6664000.00,4707,Jalan Rawa Binong Nomor 51A,DKI Jakarta,Jakarta Timur,Lubang Buaya,6281281767373
+2019-06-13,5,20984000.00,3035,Jalan Ratu Mawar Blok L no 32 (sebrang kedai cosmos 1a) Rt 02/rw01,DKI Jakarta,Jakarta Barat,Kedoya utara,6285216039939
+2019-06-13,1,779000.00,4604,"Kp limus nunggal, jl raya narogong km 16 ( gang samping RS MH Thamrin)",Jawa Barat,Kab. Bogor,Limus Nunggal,6287874652646
+2019-06-14,2,10049400.00,3211,"Kompleks Harapan Jaya, Jalan Rasamala 3 Blok A-288",Jawa Barat,Kota Bekasi,Harapan Jaya,62816747175
+2019-06-14,2,577400.00,4017,"Perumahan tamansari puri bali,jimbaran,H3/7",Jawa Barat,Kota Depok,Curug,6281388158331
+2019-06-15,2,1455600.00,2577,"Gang Taslim No.30
+Patokan  Belakang Toko Jaya Baru Masuk Gang Kecil
+Otista Raya
+Jakarta Timur",DKI Jakarta,Kota Jakarta Timur,Bidaracina,62819691236
+2019-06-15,1,376800.00,4792,Peumahan Taman Palumbon Asri blok B1 nomor 31 rt 002 rw 024,Jawa Barat,Kab. Karawang,Palumbonsari,6285882446612
+2019-06-17,2,1472000.00,2812,"depan perumahan viila mahkota indah, kali pisang batu, taruma jaya bekasi utara",Jawa Barat,Kab. Bekasi,Pahlawan Setia,6281375319009
+2019-06-17,6,30312400.00,267,Jalan Tipar cakung Nomor 3Rt 01/01,DKI Jakarta,Kota Jakarta Utara,Semper Barat,81211697205
+2019-06-18,1,1415200.00,4599,"PIK Kapuk Muara, Jalan Katamaran Permai 6 no. 8",DKI Jakarta,Kota Jakarta Utara,Kapuk Muara,6281218933315
+2019-06-18,1,1957600.00,4052,"Jl. Swadaya No.1, RT.10/RW.9",DKI Jakarta,Kota Jakarta Selatan,Pejaten Timur,62878-8963-0555
+2019-06-18,1,1201000.00,4874,Jl.Dharma Bakti No.49 Rt.01/04 (rumah ketiga setelah mesjid alkhoir warna hijau),Banten,Kota Tangerang,Pabuaran,6287882889529
+2019-06-19,3,3639800.00,3702,Jl Pantai  Sanur C No 16 RT 002 RW 012,Jawa Barat,Kota Bekasi,Pengasinan,628568131694
+2019-06-19,1,3170000.00,4906,Jl gempol kulon no 63 halaman mesjid ashabirin,Jawa Barat,Kota Bandung,Citarum,6281221390093
+2019-06-19,2,582800.00,4368,"Harvest City, Cluster Dianthus A. Blok DA13/17, Cileungsi, Bogor.",Jawa Barat,Kab. Bogor,Cipenjo,6281318864330
+2019-06-19,9,92064000.00,432,taman puspa blok d6 no.21,Banten,Kab. Tangerang,Cikupa,6287885408760
+2019-06-19,8,390608600.00,2210,Ruko perum telaga pasi raya blok A no49 desa sukasari,Jawa Barat,Kab. Bekasi,Sukasari,6285710757848
+2019-06-21,3,3180800.00,3955,Komp. SBS Jl. Indragiri 1 blok b3 no.13 RT 03 RW 08,Jawa Barat,Kota Bekasi,Harapan Jaya,628128305130
+2019-06-21,13,68595300.00,3028,"ruko golden vienna ba 1 no 1.
+toko bsd susu",Banten,Kota Tangerang Selatan,Rawa Buntu,6285200113377
+2019-06-22,1,14519900.00,4897,Jalan Haji Hasbi Rt.10 Rw.02 No.31,DKI Jakarta,Jakarta Timur,Kebon Pala,6281380797218
+2019-06-24,9,119408800.00,2820,Jl. Pelapah Indah Blok DC 13 No. 24,Banten,Kab. Tangerang,Curug Sangerang (Curug Sangereng),6282279979963
+2019-06-24,1,9191600.00,1524,pondok mutiara harum blok ad no 6,Jawa Timur,Kab. Sidoarjo,Sumput,6287755525888
+2019-06-25,2,10134400.00,4912,Puri nirwana 3 blok CD no 1 Karadenan Cibinong Bogor,Jawa Barat,Kab. Bogor,Karadenan,6281310538787
+2019-06-26,4,39986400.00,1998,"Daan Mogot Baru, jl taman ubud blok JA no.50",DKI Jakarta,Kota Jakarta Barat,Kalideres,62811980178
+2019-06-26,1,485600.00,3264,Taman mutiara Pesanggrahan blok b14 rt 005 rw 001 desa ragajaya,Jawa Barat,Kab. Bogor,Ragajaya,6281398354964
+2019-06-27,4,590400.00,4415,"Jln. Ciliwung bawah no.87 
+Rt.005, Rw.01
+Kota Depok",Jawa Barat,Kota Depok,Kemiri Muka,6281240677944
+2019-06-27,1,143568000.00,5010,"PERGUDANGAN SEMANAN BLOK D DAAN MOGOT KM18, JAKARTA BARAT (seberang Pergudangan BizPark Sedayu) (gudang popok)",DKI Jakarta,Jakarta Barat,Semanan,628121067467
+2019-06-29,9,122388800.00,954,"jl. KEADILAN 2 NO 15, rt/rw: 07/04",DKI Jakarta,Kota Jakarta Barat,Glodok,6281311252333
+2019-06-29,12,55815600.00,228,Jalan Bintang satu nomor 13,Jawa Barat,Bekasi,Jakasatia,628567790613
+2019-07-02,1,212800.00,5247,"Jl. Kebagusan III no 19 rt/003, rw/05 kelurahan kebagusan, kecamatan pasar minggu, Jakarta Selatan",DKI Jakarta,Kota Jakarta Selatan,Kebagusan,6287782912009
+2019-07-02,1,9376000.00,5216,Jl. Kembang permai blok i7 no 31. Komplek samping pasar puri indah,DKI Jakarta,Kota Jakarta Barat,Kembangan Selatan,6282232722998
+2019-07-03,5,6227600.00,4241,"Komplek Marinir Jl. Seroja 4 Rt. 07 Rw. 05 No. I-08, a.n Husen 085710073410",DKI Jakarta,Kota Jakarta Selatan,Cilandak Timur,6282227581074
+2019-07-03,12,63399200.00,890,jl. taman cimanggu poncol no.12 RT 02 RW 05,Jawa Barat,Kota Bogor,Kedung Waringin,6287711200755
+2019-07-04,18,314917200.00,870,jln kh fudoli kaum utara rt3/1 karangasih cikarang utara-bekasi,Jawa Barat,Kab. Bekasi,Karangasih,6285776318188
+2019-07-04,5,43836000.00,1887,"Yayasan Buddha Tzu Chi Indonesia. TZU CHI CENTER TOWER 2 . Jl. Boulevard Pantai Indah Kapuk, RT.6/RW.2",DKI Jakarta,Kota Jakarta Utara,Kamal Muara,628128256646
+2019-07-04,1,4752400.00,4861,"Jl. Ampera 7 
+Ruko King No.8 L",DKI Jakarta,Kota Jakarta Utara,Pademangan Barat,628561455588
+2019-07-05,1,4708000.00,5327,JL. NIRBAYA XIII NO.20 RT.10 RW.03 PINANG RANTI,DKI Jakarta,Kota Jakarta Timur,Pinang Ranti,6281291637620
+2019-07-05,5,90723600.00,1485,Jl. Enim II No. 111C Depan Mushalla Al Khairiyah,DKI Jakarta,Jakarta Utara,Sungai Bambu,62811199722
+2019-07-05,2,14429800.00,253,Mutiara Taman Palem Blok E3 No.33,DKI Jakarta,Kota Jakarta Barat,Cengkareng Timur,628121095335
+2019-07-06,1,1269000.00,4882,"Jl. Karang Tengah I RT 01 / RW 08 No.29
+Kelurahan. Lebak Bulus, Kecamatan. Cilandak
+Jakarta Selatan 12440",DKI Jakarta,Kota Jakarta Selatan,Lebak Bulus,6281219152348
+2019-07-08,4,76314000.00,3391,Jl palmerah barat v gg nurul huda 3 rt 014/09 no 37.,DKI Jakarta,Jakarta Barat,Palmerah,62Feritaaing@gmail.com
+2019-07-08,1,142000.00,5315,"AKBID KARYA BUNDA HUSADA 
+JL. IMAM BONJOL NO.77 KEL. BOJONG JAYA KARAWACI",Banten,Kota Tangerang,Bojong Jaya,6282299846116
+2019-07-08,27,1329700464.00,286,Jl Kebon Kacang 1 no 32,DKI Jakarta,Kota Jakarta Pusat,Kebon Kacang,6281311585876
+2019-07-08,1,321200.00,4905,Gg H Saban No. 8B Jl. Batas II,DKI Jakarta,Kota Jakarta Timur,Kalisari,6281228580363
+2019-07-09,1,16720000.00,5397,GANESHA OPERATION JL DAAN MOGOT NO 16 SUKARASA,Banten,Kota Tangerang,Sukarasa,6285711624693
+2019-07-09,1,35865000.00,3197,ruko arcadia blok a no 3,Banten,Kab. Tangerang,Teluk Naga,6281218290165
+2019-07-10,2,15497400.00,5294,"Jalan Gardu No. 8 RT 01/002 Condet, Jakarta Timur ( Ruko B )",DKI Jakarta,Kota Jakarta Timur,Balekambang,6281298393700
+2019-07-10,2,40424000.00,364,"Rukan Mangga Dua Blok A no.12, Jl. Mangga Dua Dalam",DKI Jakarta,Kota Jakarta Pusat,Mangga Dua Selatan,6281314200539
+2019-07-11,35,546772100.00,246,Perumahan JATINEGARA INDAH Blok CA1 no 44,DKI Jakarta,Cakung,Jakarta Timur,6281322242445
+2019-07-11,3,89252000.00,1435,"PERGUDANGAN SEMANAN BLOK E DAAN MOGOT KM18, JAKARTA BARAT (seberang Pergudangan BizPark Sedayu) (gudang popok)",DKI Jakarta,Jakarta timur,Kalideres,628129465908
+2019-07-11,1,1410100.00,4766,Puri bukit depok blok e8 no 25,Jawa Barat,Kab. Bogor,Tajur Halang,6285930237191
+2019-07-11,1,1556400.00,4985,jl.plumpang semper no.45A Rt/05 Rw/01 kel:tugu selatan kec:koja jakarta utara,DKI Jakarta,Kota Jakarta Utara,Tugu Selatan,6287881816060
+2019-07-12,1,2273550.00,5257,Jl urip sumoharjo 106,Yogyakarta,Kota Yogyakarta,Klitren,6281228002094
+2019-07-12,3,153800000.00,5153,Jl. Pademangan 3 raya no 57 (samping gg 10),DKI Jakarta,Kota Jakarta Utara,Pademangan Timur,628119002290
+2019-07-13,4,41333800.00,1636,Rawa selatan 4 no 10 rt 13/03 Johar baru depan indomart rawa selatan gerbang biru toko topp susu,DKI Jakarta,Kota Jakarta Pusat,Johar Baru,6281297960433
+2019-07-13,5,10001600.00,551,Jl. Pendidikan SMP 209 RT 08 rw 09 no 17,DKI Jakarta,Kramat jati,Jakarta Timur,6283895936941
+2019-07-13,7,40976000.00,1920,"Perumahan Pondok Kelapa, Jalan Janur IIIC Blok A10/1",DKI Jakarta,Kota Jakarta Timur,Pondok Kelapa,6281111335003
+2019-07-13,5,61194400.00,4091,Apartement Sentra Timur Residence Pulogebang Cakung Jakarta Timur 13950,DKI Jakarta,Kota Jakarta Timur,Pulo Gebang,6285921834430
+2019-07-13,1,31840000.00,5454,"Jl.Roa Malaka II (DH:Orpa) no.36,Dekat Kantor Sabun B29/Pempek Tenny",DKI Jakarta,Kota Jakarta Barat,Roa Malaka,6281806081856
+2019-07-15,3,7445600.00,2810,"Jl raya conder no 54G
+Rt 001 rw 03
+(Samping IZI Condet)",DKI Jakarta,Kota Jakarta Timur,Batuampar,6281284873349
+2019-07-15,4,3986400.00,2969,jln pertengahan gang salam 6 no 41 rt 10 rw 07,DKI Jakarta,Kota Jakarta Timur,Cijantung,6287724008435
+2019-07-15,1,346200.00,959,"Jl.kh ishak link seneja RT03 rw 01, kel-kec: sukmajaya-jombang. Kota cilegon",Banten,Kota Cilegon,Sukmajaya,6287709999150
+2019-07-15,1,5084800.00,173,Cluster the blossom No.11 Jln.Bumi pancoran (Belakang Sdn Mampang 01) Rt.03 Rw.12 Kel.mampang Kec.Pancoran Mas depok,Jawa Barat,Kota Depok,Gandul,6281296894191
+2019-07-15,3,30604100.00,3259,"Jl.kramat jaya gg 2 blok f no 22
+RT 005/007.
+Jakarta utara",DKI Jakarta,Kota Jakarta Utara,Semper Barat,628993167196
+2019-07-16,1,8408400.00,1230,Jalan Batu ampar 2 perumahan condet baru blok b 25,DKI Jakarta,Kota Jakarta Timur,Batuampar,628119413138
+2019-07-16,1,282800.00,5531,"Lembah Hijau, Blok A-5, No.3, Mekarsari, Cimanggis, Depok",Jawa Barat,Kota Depok,Mekarsari,628981883909
+2019-07-17,13,105869600.00,2671,"Jalan Pademangan 1 Gang 8, nomor 1A",DKI Jakarta,Jakarta Utara,Pademangan,6281283439798
+2019-07-17,8,149274000.00,722,Jl Kemang selatan Xa no 19 rt 003 rw 02 kel bangka kec mampang prapatan,DKI Jakarta,Kota Jakarta Selatan,Bangka,6287775906733
+2019-07-18,4,27394000.00,5316,Jl. Seha Ruko No. 18H Kebayoran Lama Jakarta Selatan,DKI Jakarta,Kota Jakarta Selatan,Kebayoran Lama Selatan,6281382989191
+2019-07-18,6,17046600.00,218,Mega regency blok i6 / jln cendana 6 no 38,Jawa Barat,Kab. Bekasi,Sukaragam,6285780691671
+2019-07-18,6,9520800.00,89,Jl Siaga O No. 39 Rt 008/Rw 006,Jawa Barat,Kota Bekasi,Sepanjang Jaya,6287782800401
+2019-07-18,15,370508200.00,4461,"GOLF LAKE RUKO VENICE BLOK B/60 JL. LINGKAR LUAR BARAT, CENGKARENG TIMUR - JAKARTA BARAT. MOHON DIKIRIM HARI KERJA SENIN - SABTU JAM 09.00 - 15.30",DKI Jakarta,Kota Jakarta Barat,Cengkareng Timur,628179135450
+2019-07-18,11,220004800.00,80,Jl. Batu Ampar III No.27,DKI Jakarta,Kota Jakarta Timur,Batuampar,6287875783987
+2019-07-19,3,60936000.00,4329,Taman palem lestari Blok A 19 no 2,DKI Jakarta,Kota Jakarta Barat,Cengkareng Barat,6287897359777
+2019-07-19,1,3458600.00,150,Jl Kotabambu Selatan II no 59 RT 001/009,DKI Jakarta,Kota Jakarta Barat,Kota Bambu Selatan,6281574257748
+2019-07-19,8,137850400.00,91,Ori Rt 001/005 No.7 (Kota BAmbu Selatan VII-ada plang Garuda Motor),DKI Jakarta,Kota Jakarta Barat,Kota Bambu Selatan,6287888969698
+2019-07-19,2,6919200.00,5265,"JL Pantai Kuta VI No.5, RT/RW 011/010",DKI Jakarta,Kota Jakarta Utara,Ancol,6281290251666
+2019-07-20,1,133200.00,5653,Kp situaksan gg. Pagarsih Barat 2 rt5 rw8,Jawa Barat,Kota Bandung,Sukahaji,62895327881816
+2019-07-20,2,961200.00,5564,Grand delta sari blok aster No. 17 waru sidoarjo.,Jawa Timur,Kab. Sidoarjo,Wedoro,6281244069994
+2019-07-22,9,169670300.00,1633,"Jl. Duri (TSS Raya) No.20  Rt.001/Rw.06
+(sebelah Tony Salon)",DKI Jakarta,Kota Jakarta Barat,Duri Selatan,6287777811138
+2019-07-22,12,87632200.00,568,Toko Li-an Mart Jalan Jelambar jaya 4 No 7B RT.3/RW.9,DKI Jakarta,Grogol petamburan,Jakarta Barat,6281376796666
+2019-07-22,29,1310761400.00,292,"Toko Susu Bila Kids Layanan Grosir. Ruko Nirwana Estate Blok B No.P Jalan Raya Cikaret, Cibinong - Bogor",Jawa Barat,Bogor,Pakansari,628129669731
+2019-07-22,1,249600.00,5713,Vila tomang baru blok a4 no. 3. Rt/rw: 07/13,Banten,Kab. Tangerang,Gelam Jaya,6285776572242
+2019-07-22,8,60141000.00,1463,jl.tss trikora 2 no.23 rt.007 rw.05..belakang gereja GBI trikora pintu orange,DKI Jakarta,Kota Jakarta Barat,Duri Utara,6287888288228
+2019-07-23,1,3428800.00,1933,"Toko susu MRC
+jalan husein sastranegara no 8B (seberang hotel sahabat) dekat perumahan duta garden, jurumudi, benda, tangerang, 15124",Banten,Kota Tangerang,Jurumudi,6281298939523
+2019-07-23,2,761300.00,4069,Sektor Anggrek 2 Blok H3 no 6 A Grand Depok City,Jawa Barat,Kota Depok,Tirtajaya,6281285200765
+2019-07-23,15,212678000.00,1727,"Komp Deplu 76, Jl. Caraka IV No. 69 RT 003/08",DKI Jakarta,Kota Tangerang Selatan,Pondok Karya,628129359148
+2019-07-25,1,833000.00,5795,Jl duri baru no. 32 RT 03 RW 07 ( GANG JASUN ),DKI Jakarta,Kota Jakarta Barat,Tambora,6282119316943
+2019-07-25,4,69733200.00,773,"Komplek Karyawan Walikota, Jl. Hj. Sodon Rt009 Rw003 No.09 (2 rumah disamping Musholla Ali Gufron), Meruya Selatan (Udik), Kembangan, Kota Jakarta Barat, DKI Jakarta",DKI Jakarta,Kota Jakarta Barat,Meruya Selatan (Udik),6282111511377
+2019-07-25,28,193609000.00,258,Jalan Akses Graha Raya Ruko Fortune 8 FB/D19 Graha Raya Bintaro,Banten,Kota Tangerang Selatan,Paku Jaya,8562160248
+2019-07-25,3,3146800.00,5012,Jl maleber barat/ inpres gg saluyu 2 no 6 rajawali bandung,Jawa Barat,Kota Bandung,Maleber (Maleer),6285624028185
+2019-07-25,3,9357600.00,341,"Jalan AD lampiri no 23, rt09/12",DKI Jakarta,Kota Jakarta Timur,Pondok Kelapa,6281210082322
+2019-07-25,1,401200.00,5209,"Villa Mutiara Cikarang 2, Jl. Gunung Arjuno Blok A1 No 19 Sukasejati, Cikarang Selatan, Kab Bekasi",Jawa Barat,Kab. Bekasi,Sukasejati,6285232264905
+2019-07-25,16,205680600.00,140,Jl. Cempaka III / Gang Haji Munasir 2 RT005/02 No.10,DKI Jakarta,Kota Jakarta Pusat,Cempaka Putih Barat,6281298989856
+2019-07-26,12,34478800.00,673,Perumahan Limo Regency Jl. Raya Meruyung NO.58 Ruko R3 Rangkapan Jaya Baru Pancoran Mas Depok.,Jawa Barat,Kota Depok,Meruyung,62817192591
+2019-07-26,1,5200000.00,5842,Inspektorat kota bekasi  Jl. Rawa tembaga 1 no 1,Jawa Barat,Margajaya,Bekasi,6282114141381
+2019-07-26,1,5008200.00,5432,"Jalan Timbul 3 A Rt. 007/ Rw. 004 No.  37 B Kel.  Cipedak Kec.  Jagakarsa Jakarta Selatan,Jakarta Selatan (Patokan Tikungan Tajam Butik Syifa (depan Ponpes Nuraini)",DKI Jakarta,Kota Jakarta Selatan,Cipedak,6285780999216
+2019-07-26,3,727600.00,1676,"Pulo Nirwana Regency no. B9, Halim (masuk jl. Charlie)",DKI Jakarta,Kota Jakarta Timur,Pinang Ranti,6289613333123
+2019-07-27,5,13347000.00,4439,"Pondok Kacang Prima, Jl.Rambutan I, blok H1 NO.11",Banten,Kota Tangerang Selatan,Pondok Kacang Timur,6281929898990
+2019-07-27,8,150251000.00,1784,"Karisma grosir
+Perum pasiraya ruko blok A no 49",Jawa Barat,Kab. Bekasi,Sukasari,6285691692010
+2019-07-27,1,2510000.00,2286,jl kebembem rt1/4 no.22g jagakarsa jaksel patokannya top royal store jagakarsa,DKI Jakarta,Jagakarsa,Jakarta Selatan,628568732331
+2019-07-27,1,22240000.00,1590,jalan raya condet gang eretan 1 no 19 rt/01 rw/01,DKI Jakarta,Jakarta Timur,balekambang,6287829542174
+2019-07-27,9,177755000.00,2156,Jl. Kembang permai blok i7 no 31,DKI Jakarta,Kota Jakarta Barat,Kembangan Selatan,6282232722990
+2019-07-29,1,495450.00,5963,Desa nanggela blok Kliwon rt 15 RW 05 no 38 kec. Mandurancan kab kuningan,Jawa Barat,Kab. Cirebon,Sidawangi,6285224516780
+2019-07-29,1,698000.00,2838,"PT. OGAWA INDONESIA, kawasan industri KIIC lot A-8A Toll Jakarta Cikampek Km 47 Teluk Jambe Karawang 41361",Jawa Barat,Kab. Karawang,Telukjambe,6285714979306
+2019-07-29,2,11769000.00,235,Jalan Raya Kalimulya RT 03 RW 04,Jawa Barat,Kota Depok,Tirta Jaya,6282112673636
+2019-07-29,3,5514600.00,4367,"Sentraland Boulevard Blok H8 No. 17
+Jln. Mataram Raya",Jawa Barat,Kab. Bogor,Parungpanjang,6281298663332
+2019-07-29,39,978903900.00,1476,Jl pondok kopi blok h1 no 14,DKI Jakarta,Kota Jakarta Timur,Pondok Kopi,6285219988350
+2019-07-29,2,2641600.00,5672,Jala  mawar merah 6 no. 124 perumnas klender duren sawit jakarta timur,DKI Jakarta,Kota Jakarta Timur,Malaka Jaya,6281291272747
+2019-07-29,17,572681000.00,896,Jl.warakas 4 gg.8 no.50 A rt.11 rw.6,DKI Jakarta,Kota Jakarta Utara,Warakas,6281380912553
+2019-07-30,8,91763000.00,1984,H.Niming masuk Gang Tiang Listrik sebrang Warteg AnNisa 3 lalu ketmu Pager Gold yg ada Spanduk TRSolution kontrakan pintu ke 5,DKI Jakarta,Kota Jakarta Barat,Srengseng,6281314250857
+2019-07-31,6,3573800.00,3393,"Toko.laxidens jln.ahmad yani no.547
+Cicadas bandung",Jawa Barat,Kota Bandung,Cicadas,628122081515
+2019-07-31,2,15637600.00,5909,"JL. Parung Serab KSU, Rt. 001/005.",Jawa Barat,Tirtajaya,Depok,6281310228748
+2019-07-31,1,142000.00,6050,"Jalan Abdul Majid Dalam III no 2B, komplek deplu RT 8/ RW 5, Cipete Selatan, kec Cilandak, Jakarta Selatan 12410",DKI Jakarta,Kota Jakarta Selatan,Cipete Selatan,6281293663649
+2019-08-01,3,35263900.00,5784,Jalan Cempaka Anyar No 7 Rt 13 Rw 09 Cakung Timur Jakarta Timur 13910,DKI Jakarta,Kota Jakarta Timur,Cakung Timur,6281381698862
+2019-08-01,1,2440000.00,910,jl.caringin Rt.002 / 04 kp.kekupu pancoran mas,Jawa Barat,Rangkapan Jaya,Depok,6281239010007
+2019-08-02,2,1101400.00,4145,Kp sirnagalih jalan siswa raya gang siswa 6,Banten,Kota Tangerang,Karang Sari,6281290990604
+2019-08-02,3,6676400.00,1548,Toko baby mart Pasar Babakan Madang Blok H2a Kabupaten BogorJawa Barat,Jawa Barat,Kab. Bogor,Babakan Madang,6289605499883
+2019-08-05,2,994000.00,6109,Jl. Jaya 8 RT. 007 RW. 09 No. 40,DKI Jakarta,Kota Jakarta Barat,Cengkareng Barat,6281908002458
+2019-08-08,1,1395600.00,6338,​Kawasan Pergudangan WSK Blok A 9 - 10 Jalan Raya Bekasi Km 28 (Jl Wahab Affan) Pondok Ungu,Jawa Barat,Medan Satria,Bekasi Barat,6285960545391
+2019-08-10,1,79240000.00,6386,JL.Gongseng Raya No.2 RT04 RW01 Kelurahan Baru Pasar Rebo Jakarta Timur,DKI Jakarta,Kota Jakarta Timur,Baru,6285777755557
+2019-08-10,2,18438600.00,4383,JL. Tegal sari 1 no 25 RT 01 RW 11,Banten,sukasari,Tangerang,6282260613388
+2019-08-10,10,172954000.00,109,Jln. Beringin Raya no. 106D (Prapatan Kantor)Perum 1 Karawaci TangerangBanten,Banten,Kota Tangerang,Nusa Jaya,628111800900
+2019-08-12,3,50165200.00,229,Kapuk Kebun Jahe Pasar Alam Rt 07 Rw 03 No85,DKI Jakarta,Kota Jakarta Barat,Kapuk,6287783842959
+2019-08-12,5,38612000.00,112,Jl Hj Dimun Rt 005 Rw 001 No 45 Cilodong Depok,Jawa Barat,Kota Depok,Kalimulya,628998526479
+2019-08-12,1,190000.00,6398,R rendy fatland,Jawa Barat,Kab. Bogor,Kota Batu,628111110914
+2019-08-13,1,3660400.00,5948,Jl. Pekapuran Raya RT008 RW04 No.48B,DKI Jakarta,Kota Jakarta Barat,Tanah Sereal,6283876200040
+2019-08-13,11,219500400.00,255,Prambanan raya nomor 14 RT 08 RW 09 Perum 2,Banten,Kota Tangerang,Cibodas Baru,6282158085035
+2019-08-13,12,60266600.00,993,"Cluster Lavender, Jl Lavender 3 no 19 Gading Serpong-Tangerang 15810",Banten,Kab. Tangerang,Kelapa Dua,6285882835018
+2019-08-14,4,3062100.00,2168,"RUMAH SUSU GUSTINE, Jalan Raya Dago RT 4-RW.4,Mekar Mulya, Parung Panjang,Bogor",Jawa Barat,Kab. Bogor,Parungpanjang,6281218936017
+2019-08-15,3,6321600.00,2201,"Jl. Garnet Barat 2 No.25, PHG, Summarecon Serpong, Gading Serpong",Banten,Kab. Tangerang,Curug Sangerang (Curug Sangereng),6281388339277
+2019-08-15,3,108120000.00,1046,Jl.Damai 3 Rt.03 / 06 no.27,DKI Jakarta,Cilangkap,Jakarta Timur,628161812937
+2019-08-19,1,1312000.00,6419,Vikamas barat 2 blok B7 no 11,DKI Jakarta,Kota Jakarta Utara,Kapuk Muara,6281807876388
+2019-08-19,1,1068400.00,6541,Lagoa gang 4 jl 1B rt014 rw 4,DKI Jakarta,Kota Jakarta Utara,Lagoa,6281514320971
+2019-08-20,1,2290000.00,5966,Perumahan bumi cibarusah asri blok m1a no15 cibarusah,Jawa Barat,cibarusah,Kab. Bekasi,6289517906526
+2019-08-20,2,5381000.00,6421,"Ruko Itc permata hijau Blok.Diamond No.25,Jl.arteri permata hijau",DKI Jakarta,grogol utara,jakarta selatan,628118988190
+2019-08-20,5,29198000.00,78,Perum gramapuri persada blok F3/32,Jawa Barat,Kab. Bekasi,Sukajaya,6285216727588
+2019-08-20,3,9499000.00,1882,Jl. Pitara No.33C (Dekat Kelurahan Pancoran Mas dan Masjid At Taqwa),Jawa Barat,Depok,Pancoran Mas,6281212175528
+2019-08-20,1,202800.00,6488,Perumahan Grand Vista Cikarang blok F15 no.30 Ds. Jaya mulya,Jawa Barat,Kab. Bekasi,Jayamulya,6285368271904
+2019-08-22,3,49322800.00,5088,"Perum Mampang Indah 2, Jalan Ta'lim nomor 144-145",Jawa Barat,Depok,Rangkapan Jaya,6281219120040
+2019-08-23,246,3418284100.00,186,cipinang baru bunder Rt 04 Rw 018,DKI Jakarta,Kota Jakarta Timur,Cipinang,6282218696661
+2019-08-24,10,46121400.00,1509,sunter bisma b blok b 11 no 18,DKI Jakarta,Kota Jakarta Utara,Papanggo,6281808924877
+2019-08-24,1,2328400.00,6309,Green Lake City Cluster Amerika Rukan Wallstreet blok B 058-059. Jl. Green Lake Boulevard. Duri Kosambi. Jakarta,DKI Jakarta,Kota Jakarta Barat,Rawa Buaya,6283897987048
+2019-08-26,15,191142600.00,893,Bandengan Utara Gang Buntek No. 85A/96 Rt 3 Rw 16,DKI Jakarta,Kota Jakarta Utara,Penjaringan,628119258378
+2019-08-26,1,9640000.00,6598,Kp Rawa Badung RT 01/07 No. 132 Jatinegara Cakung Jakarta Timur (Dekat Masjid  Jami Hikmatul Umah),DKI Jakarta,Kota Jakarta Timur,Jatinegara,6282311192402
+2019-08-26,10,338496400.00,3275,Jln SMP 122 Rusun Kapuk Muara Blok F Lantai 1 No 8,DKI Jakarta,Jakarta Utara,Kapuk Muara,6281284552608
+2019-08-26,2,330610400.00,2122,"Jl. Boulevard Utara Raya Blok RA1 No. 20, Kelapa Gading Jakarta Utara",DKI Jakarta,Jakarta Utara,Kelapa Gading,628151656188
+2019-08-27,1,1253600.00,6483,"Permata Green Cinere 2
+Blok O no 1
+Limo-Depok",Jawa Barat,Kota Depok,Meruyung,6282112076726
+2019-08-27,2,6162000.00,6523,Perum Bumi Rancamanyar B2/03 Ds.Sukahati Kec.Citeureup Kab.Bogor 16810,Jawa Barat,Kab. Bogor,Sukahati,6289635763262
+2019-08-28,5,35114600.00,1049,jalan timbul no.23 rt 05 rw 05 (dekat pertigaan m.kahfi II),DKI Jakarta,Jakarta Selatan,Cipedak,6281212142035
+2019-08-28,4,22953600.00,4466,kp. cogreg Ds. keboncau Rt/Rw 026/008 no. 1,Banten,Kab. Tangerang,Kebon Cau,628999093330
+2019-08-28,1,1090900.00,5875,Jalan lebak indah nomor 102 rt4 rw3 kel.cijantung jakarta timur,DKI Jakarta,Kota Jakarta Timur,Cijantung,6282122656599
+2019-08-28,3,6689400.00,404,"Jl. Pisangan lama 3 No.7 RT 04 RW 08, Pisangan Timur, Pulogadung, Jakarta Timur (Apotik Klinik Pratama Melati)",DKI Jakarta,Kota Jakarta Timur,Pisangan Timur,6287885676719
+2019-08-31,10,40517800.00,1440,JL Raya Taman Wisma Asri Kavling L No 11 Kel: Teluk Pucung Kec : Bekasi Utara 17121,Jawa Barat,Kota Bekasi,Teluk Pucung,6281388373799
+2019-08-31,14,33733000.00,1484,"Komplek pertanian jl.gandaria Raya no.32 citayam, bojonggede, bogor",Jawa Barat,Kab. Bogor,Ragajaya,6281384406914
+2019-08-31,7,74223600.00,214,Jl. Anggrek Gg Belahum Rt 2/18 no.78B,Banten,Kota Tangerang Selatan,Pondok Benda,6285693416629
+2019-09-02,3,22728400.00,5182,"Dk ongol ongol Rt5/2, ds lau, kec dawe, kudus, jawa tengah",Jawa Tengah,Kab. Kudus,Lau,6281315855404
+2019-09-02,16,96064000.00,340,"Jalan M. Saidi 1, RT/RW. 005/001 No.62. Kel. Petukangan Selatan. Kec. Pesanggrahan Jakarta Selatan. (masuk gang depan yayasan/TK/PAUD siti khodijah)",DKI Jakarta,Kota Jakarta Selatan,Petukangan Selatan,6282114783356
+2019-09-02,24,296571400.00,1540,Penggilingan raya no.15. Toko sahabat susu. Samping alfamidi. Cakung. Jakarta Timur,DKI Jakarta,Kota Jakarta Timur,Penggilingan,6281385959578
+2019-09-03,19,221843600.00,106,Jl palem IX no 50 komplek palem semi karawaci tangerang,Banten,Kab. Tangerang,Bencongan,6287808088732
+2019-09-03,22,398234400.00,1649,Jl. Raya Sultan Agung No. 32 Rt.003 Rw.001 (Samping Fly Over Kranji),Jawa Barat,Kota Bekasi,Kranji,6281396677699
+2019-09-03,15,214268800.00,5459,"Komplek Atsiri permai, blok C3 no 2 depok ragajaya cipayung",Jawa Barat,Sukamaju,Depok,628988575781
+2019-09-03,28,139767900.00,71,"Jalan Kandang Roda, Rt 1 rw 4",Jawa Barat,Kab. Bekasi,Serang,6285281644388
+2019-09-04,46,753075800.00,121,Layar Permai 10 no 30,DKI Jakarta,Kota Jakarta Utara,Kapuk Muara,628569008050
+2019-09-04,6,4810900.00,3255,Jl. Cemara gg. 8 Blok I No. 11,DKI Jakarta,Kota Jakarta Utara,Tugu Utara,6287887897603
+2019-09-04,1,1970000.00,6395,Jln Budi mulya rt004/rw011 no103,DKI Jakarta,Kota Jakarta Utara,Pademangan Barat,6283804045218
+2019-09-04,3,27410000.00,185,"Ruko Puri Botanical Junction Blok H7/19 Jln. Joglo Raya, Mega Kebon Jeruk",DKI Jakarta,Kota Jakarta Barat,Joglo,62811197886
+2019-09-04,4,210673900.00,2149,"BAYININJA Rukan Venice Golf Lake Residence Block B No 102 Jalan Lingkar Luar Barat RT.9 RW.14, Cengkareng Timur Cengkareng - Jakarta Barat 11730Cengkareng, Kota Administrasi Jakarta Barat, 11730",DKI Jakarta,Kota Jakarta Barat,Cengkareng Timur,628119627107
+2019-09-04,8,144271800.00,181,"Plumpang B Gang. K1, Rt.8/4 No.8 Rawabadak Selatan",DKI Jakarta,Kota Jakarta Utara,Rawa Badak Selatan,6281296264509
+2019-09-04,19,506319700.00,1568,Jl g karang anyar no 9a rt.14 rw.7,DKI Jakarta,Kota Jakarta Pusat,Karang Anyar,628159117087
+2019-09-05,30,230260400.00,206,Jl. Jagung Raya no. 35 rt13/rw8 Bojong Indah Rawabuaya Cengkareng  Kota Jakarta Barat JK 11740 Indonesia,DKI Jakarta,Kota Jakarta Barat,Rawa Buaya,628158841882
+2019-09-05,21,1742165400.00,63,Perumahan Taman Kota Blok C4 no 16 RT 007 / RW 016,Jawa Barat,Kota Bekasi,Bekasi Jaya,628119280808
+2019-09-09,4,29733000.00,4490,"Jl. Pakis 2 Blok i 2 no 16, sektor 1.7, komplek Griya Loka, BSD City",Banten,Lengkong Gudang Timur,Tangerang Selatan,6281281676181
+2019-09-09,1,3080000.00,6549,golf lake residance. victoria hills 2 no 16,DKI Jakarta,Cengkareng Timur,Jakarta Barat,6281808687428
+2019-09-09,18,102973600.00,1793,"Jl tanah merdeka X no,90 rt 18/06 kp. Rambutan",DKI Jakarta,Kota Jakarta Timur,Rambutan,6281318042888
+2019-09-09,17,334714720.00,1532,Ruko Malibu Blok H No.28 Jl. City Resort Residence,DKI Jakarta,Kota Jakarta Barat,Cengkareng Timur,6285959527771
+2019-09-10,1,626800.00,6654,Jl.KAYU BESAR DALAM RW.011/ RT 012,DKI Jakarta,Kota Jakarta Barat,Kapuk,6287875599951
+2019-09-13,32,1940111400.00,315,Komplek Duta Harapan Indah Blok H No 19 Kota,DKI Jakarta,Penjaringan,Jakarta Utara,628179998088
+2019-09-13,6,45357600.00,70,Jl Condet Raya No 54/7 rt 003/004,DKI Jakarta,Jakarta Timur,Batu Ampar,6281932621655
+2019-09-16,3,51670000.00,810,Jl jombang Raya RT 03/02 Belakang sekolah budi mulia dua jombang gang pertama belok kanan no 75,Banten,Kota Tangerang Selatan,Jombang,6285719285766
+2019-09-16,1,3992000.00,3772,"Griya Kedaung Asri Blok B 16, jl Aria Putra Raya, serua indah, ciputat",Banten,Kota Tangerang Selatan,Sarua Indah,628119782600
+2019-09-16,8,567476900.00,1480,Jl putri no 22,Jawa Barat,Kota Bandung,Malabar,6287822777207
+2019-09-17,33,1747851000.00,434,"Jl. Taman Delima 4 No.2A , RT.7/RW.5",DKI Jakarta,Kota Jakarta Barat,Tanjung Duren Selatan,8170172072
+2019-09-17,17,474294120.00,859,Jl. Palmerah Utara No.49E,DKI Jakarta,Tanah Abang,Jakarta Pusat,6281293355510
+2019-09-18,2,3276400.00,6522,Komplek taman rahayu 3 blok b3 no 30,Jawa Barat,Kab. Bandung,Cigondewah Hilir,6287788520373
+2019-09-18,7,103241400.00,270,"JL. RAYA KALIMALANG 88
+RT01/RW25
+(MASUK LEWAT GANG LETNAN ARSYAD. GERBANG PERTAMA SEBELAH KIRI)
+YAMAHA ARTA PRIMA
+SEBELAH TOKO BUAH TOTAL",Jawa Barat,Kota Bekasi,Kayuringin Jaya,62811153880
+2019-09-19,25,2180281200.00,840,Jl. Raya kelapa hibrida Blok RB1 no.29A,DKI Jakarta,Kota Jakarta Utara,Pegangsaan Dua,6281808500089
+2019-09-19,1,202800.00,7011,"Jalan haji jidi no.79 kel. Cinere kec.cinere, kota depok",Jawa Barat,Kota Depok,Cinere,6285693501018
+2019-09-20,4,2169600.00,5420,Rm Pondok lezat jl bulevar hijau raya blok c 5 no 6 harapan indah bekasi,Jawa Barat,Kota Bekasi,Pejuang,6281807241345
+2019-09-20,1,3100000.00,6930,Jl. Multikarya Rt009/Rw009 No.4,DKI Jakarta,Jakarta Timur,Utan Kayu Utara,6289667442865
+2019-09-21,8,25282200.00,1486,Jl Kotabambu Selatan II No 59 RT 001 RW 009,DKI Jakarta,Jakarta Barat,Kotabambu Selatan,6281574257748
+2019-09-23,2,15694000.00,6650,"TIPAR CAKUNG no. 3 
+RT 1/1",DKI Jakarta,Kota Jakarta Utara,Semper Barat,6289601979258
+2019-09-23,1,405600.00,7068,Cluster Barcelona Blok BC 15 no. 25 Rawakalong - Tambun Utara,Jawa Barat,Kab. Bekasi,Karangsatria,6281387333532
+2019-09-23,1,3200000.00,7151,jl abdul gani raya no 78 kalibaru cilodong depok,Jawa Barat,kalibaru,Depok,6281363184552
+2019-09-23,1,3148000.00,7160,Jln. Raya bendungan jago. No. K 197 .RT008/001,DKI Jakarta,Utan Panjang,Jakarta Pusat,6281280800653
+2019-09-23,5,14110000.00,1123,KOMPLEK CENGKARENG INDAH JL WARU IV BLOK ED NO 15 CENGKARENG,DKI Jakarta,Jakarta Barat,Kapuk,628111041367
+2019-09-23,25,839054400.00,3979,Jalan Wira Kencana V no.6A RT.3/2,DKI Jakarta,Kota Jakarta Timur,Cilangkap,6285886614072
+2019-09-23,5,102692000.00,2868,jl. Danau sunter utara blok A36D no.45,DKI Jakarta,Kota Jakarta Utara,Sunter Agung,6281311183338
+2019-09-23,26,1391879400.00,1482,"Ruko Mutiara Taman Palem Blok C 10 No 69, tepatnya di belakang mal taman palem a/belakang hotel Aston Cengkareng.",DKI Jakarta,Jakarta Barat,Cengkareng timur,62811863160
+2019-09-24,23,350337300.00,236,Jl. Cempaka III RT005/02 No.10,DKI Jakarta,Jakarta Pusat,Cempaka Putih,6281298989856
+2019-09-24,1,1228000.00,7193,"Kios Perumahan Kampung Pelangi, Depan Yayasan YAPA.Jl. Pelangi Raya. Kampung Rawa hingkik Rt.001/017",Jawa Barat,Cileungsi,KAB. BOGOR,6281298412271
+2019-09-25,13,1072629000.00,3836,"Jalan .M Kahfi I Nomor 1, RT15 RW1",DKI Jakarta,Kota Jakarta Selatan,Cipedak,628170180808
+2019-09-28,4,22295400.00,552,"Perumahan Citra Indah City. Cluster Amarilis Blok Ar 33 no 15. Kab Bogor, Jonggol",Jawa Barat,Jonggol,Kab. Bogor,6289695540161
+2019-09-30,5,49248200.00,1723,Jln. mangga besar 13 no.7  Rt 08 Rw 05,DKI Jakarta,Kota Jakarta Pusat,Mangga Dua Selatan,6281807825842
+2019-09-30,23,138761500.00,1075,perumahan PONDOK UNGU PERMAI blok ii 10 nomer 8a.TOKO TIANDepan kantor sekretariat rw016Depan masjid at taubah,Jawa Barat,Kota Bekasi,Kali Abang Tengah,6281317992281
+2019-09-30,3,36774400.00,1764,Jln jembatan 2 raya  Komplek ruko harmoni mas blok e no19,DKI Jakarta,Pejagalan,Jakarta utara,6289638578999
+2019-09-30,2,2375200.00,7116,Perumahan Puri Gardenia blok G.8 no.19 kel.babelan kota kec.babelan Bekasi 17610,Jawa Barat,Kab. Bekasi,Babelan Kota,6281584449284
+2019-09-30,2,10801000.00,1786,Jl. Remaja 1 No.9 RT.004 RW.008,DKI Jakarta,Jakarta Pusat,Cempaka Baru,6285810061904
+2019-10-01,2,7966400.00,7299,Boulevard gading serpong Alexandrite residence blok AS/46 (Seberang mall sms),Banten,Gading serpong,Tangerang,62817107798
+2019-10-01,1,18830400.00,5463,Perum metland cileungsi sektor 6 blok FI 9 no.13,Jawa Barat,Cipenjo,Bogor,6281292988569
+2019-10-02,13,71965000.00,796,"jalan akses graha raya ruko Fortune 8 FB/D20
+garah raya -- bintaro",Banten,Kota Tangerang Selatan,Paku Jaya,628562160248
+2019-10-02,4,89500000.00,5572,Jl. Mandala selatan raya No.1 Tomang,DKI Jakarta,Tomang,Jakarta Barat,6285101406409
+2019-10-02,5,83410400.00,111,Toko susu DUO ANDHIKA jln kH fudholi kaum utara rt3/1 depan holan bakrey,Jawa Barat,Kab. Bekasi,karangasih,6287879434582
+2019-10-02,1,230000.00,7337,"Jl kosambi no 34 RT 1 RW 7 sunter agung , Jakarta utara 14350  ( masuk gang Honda )",DKI Jakarta,Sunter agung,Jakarta utara,6287782102299
+2019-10-02,23,1463541000.00,614,Jl.raya sukahati rt 04 rw 04 no 46,Jawa Barat,Kab. Bogor,Sukahati,6285691019896
+2019-10-02,33,582136600.00,1364,"Jalan kenanga 1 no 15a, cengkareng barat , masuk dr belakang bank mandiri dekat pasar ganefo",DKI Jakarta,Kota Jakarta Barat,Cengkareng Barat,6282113447900
+2019-10-03,1,1196800.00,7535,"Perumahan casa goya  blok K12A
+Kemanggisan jakarta barat 11530",DKI Jakarta,Kota Jakarta Barat,Kebon Jeruk,62816753636
+2019-10-03,2,1140000.00,7502,Jl. Kemandoran Raya Tugu No. 5A,Jawa Barat,Kota Bekasi,Pekayon Jaya,6281212039433
+2019-10-03,1,1658000.00,7478,jl.paus raya no.1 perumnas karawaci baru tangerang/RSIA ASSYIFA,Banten,Kota Tangerang,Karawaci Baru,6281510873368
+2019-10-05,16,266305800.00,3040,"Jl. Komarudin Raya No.5 Rt.003/05, , Kota",DKI Jakarta,Jakarta Timur,Penggilingan,6285711186333
+2019-10-07,12,15004000.00,2041,Jl. Perjuangan No 2 RT 01 RW 02,Jawa Barat,Kota Bekasi,Teluk Pucung,628811024360
+2019-10-07,30,357289600.00,221,Ruko Symphony HX 1 No 96 Kota Harapan Indah 2 Kota,Jawa Barat,Bekasi,Harapan Jaya,628111018347
+2019-10-07,1,5087600.00,7728,Perum Bumi Cikampek Baru blok D4 no 12. RT 004/RW 008 Desa Balonggandu,Jawa Barat,Balonggandu,Kab. Karawang,6285771616135
+2019-10-09,1,4468000.00,7536,Komplek wisma tajur jl bima 2. blok bk no.27 rt 02 rw 07. Rumah pak Arum/ella/TOKO ALGHIFARIKAMIL,Banten,Tajur,Tangerang,6287771945222
+2019-10-09,48,2008582400.00,1414,Jl. Meruya Ilir Raya no 8A-B,DKI Jakarta,Kota Jakarta Barat,Meruya Utara (Ilir),6281808285678
+2019-10-10,1,1636000.00,7841,Jalan Layar 2b Nomor 8,Banten,Kab Tangerang,Kelapa Dua,6281388369022
+2019-10-10,1,12591400.00,7464,"Jl. Hemat 1 no. 11 Rt 009/03 Jelambar (sebelah kos bu vin, gerbang hitam)",DKI Jakarta,Kota Jakarta Barat,Jelambar,628119252676
+2019-10-10,20,1170265800.00,909,Jl.Raya Jatiwaringin No.144  Rt.05 Rw.05 Kel.Jaticempaka Kec.Pondok gede Kota Bekasi,Jawa Barat,Kota Bekasi,Jaticempaka,6287886793571
+2019-10-10,1,9035000.00,7826,Jl .kampung peusar RT 003/001 no 155,Banten,Binong,Tangerang,62895384163117
+2019-10-11,1,385600.00,7354,Kamp.mangga RT.003 RW.005 No.14 kel.tugu selatan Kec.Koja Jakarta Utara (14260) patokan lapangan paguyuban 1,DKI Jakarta,Kota Jakarta Utara,Tugu Selatan,6281808987682
+2019-10-11,1,7334400.00,2036,"Jalan babakan irigasi 305/198A (samping gg amd 8) bandung , babakan tarogong, bojongloa kaler",Jawa Barat,Babakan tarogong,Bandung,6285939825082
+2019-10-11,33,182112600.00,929,"Toko Mustika Susu,
+JL. Mustika Jaya No.82 (Ruko BKKBN) Bekasi Jawa Barat",Jawa Barat,Kota Bekasi,Mustika Jaya,6282220350779
+2019-10-11,2,51074000.00,7449,"Pasar Pondok Timur Indah Jembatan 6, Jalan Dahlia Raya nomor A23 Mustika Jaya",Jawa Barat,Mustika Jaya,Bekasi,6281380243765
+2019-10-11,19,55332900.00,4732,Jl. Kali baru barat 7 rt. 001 rw. 04 cilincing jakarta utara. Pas di depan indomaret cilincing lama.,DKI Jakarta,Kota Jakarta Utara,Cilincing,6281315221325
+2019-10-11,6,195263500.00,151,Jalan Pasirluyu Barat No 42 RT 08 / RW 06,Jawa Barat,Kota Bandung,Ancol,6281220110789
+2019-10-12,1,9390000.00,252,"Jl. Pulo Jaya No.8,  rt5/12",Jawa Barat,Beji,Depok,628568315233
+2019-10-12,6,34815200.00,503,Kp. Kebon Kopi RT 03/10 No.11,Jawa Barat,Kab. Bogor,Sanja,6282114067935
+2019-10-14,14,194516200.00,1011,"jalan kenanga 1 no 15a, rt 005/ rw 002. belakang bank mandiri , dekat pasar ganefo",DKI Jakarta,Kota Jakarta Barat,Cengkareng Barat,6282113447800
+2019-10-14,13,121839100.00,1278,jl. Madya 02 Rt03 rw 03 Tugu Utara /disamping nasi padang saribu minang atau depan Warteg Azizah,DKI Jakarta,Kota Jakarta Utara,Tugu Utara,6281316194486
+2019-10-14,30,1019085600.00,96,Jl pondok kopi blok h1 no 14,DKI Jakarta,Kota Jakarta Timur,Pondok Kopi,6281398095273
+2019-10-14,4,39070000.00,6759,Jl sawangan raya Komplek BDN sawangan blok C6 no 20,Jawa Barat,Depok,Mampang,6281297205282
+2019-10-14,14,120021600.00,231,Jl. Pulo Mawar I No.37 RT 005 RW 004,DKI Jakarta,Kota Jakarta Selatan,Grogol Utara,628568896701
+2019-10-14,14,634517800.00,1948,"Jl, Pademangan 3 Raya no.57 samping gg.10",DKI Jakarta,Kota Jakarta Utara,Pademangan Timur,6287875366811
+2019-10-15,6,10842500.00,5150,Jl sindang barang pilar 1. Rt 05/06 gg. Ki djain,Jawa Barat,Kota Bogor,Sindangbarang,6281932854762
+2019-10-15,13,383854000.00,4712,jl. Danau sunter utara blok A36D no.45,DKI Jakarta,Jakarta Utara,Sunter Agung,62‎8119895123
+2019-10-15,8,296428000.00,6895,"Ruko Parakan Jaya, Jl JKT-Bogor No 11",Jawa Barat,Parakan Jaya,Bogor,6282111251187
+2019-10-15,41,2378773800.00,4432,"Susuku Office,Jalan Raya Serpong Km.7 Kawasan Komplek Multiguna Blok A1 no 6,Susuku.. Jl. Mushola Al-Whusto Blok A1 No.8",Banten,Kota Tangerang Selatan,Serpong,6281295071972
+2019-10-15,14,104787600.00,4761,"TIPAR CAKUNG NO.3RT 01/01, SEMPER BARATSEBRANG BANK BRI SEMPER. KIRA2 100METER DARI BUNDARAN SEMPER",DKI Jakarta,Kota Jakarta Utara,Semper Barat,6281211697205
+2019-10-15,20,105021000.00,285,"Cluster Lavender, Jl Lavender 3 no 19 Gading Serpong",Banten,Kab. Tangerang,Kelapa Dua,6285210809600
+2019-10-16,7,193316000.00,6597,"pulogebang permai jln pulau andalas 9 blok a12 no 2,",DKI Jakarta,Pulo gebang,Jakarta Timur,6281807720953
+2019-10-16,1,2290100.00,7981,Perumnas klender Jl.Bunga rampai 1 gg.2 NO.49 Rt.007 Rw.009,DKI Jakarta,Malaka Jaya,Jakarta Timur,6281341133715
+2019-10-16,16,78544100.00,307,Toko Susu Sahabat Kita Jl Mandor Demong,Jawa Barat,Mustika jaya,Kota Bekasi,6281312849574
+2019-10-16,2,101246000.00,7150,Jalan Boulevard Raya Komplek  Grand Depok City Cluster Lantana Blok.A28 Sukmajaya,Jawa Barat,Sukmajaya,Depok,628121407236
+2019-10-16,7,180170000.00,363,"Jalan Mangga Dua Dalam, Rukan Mall Mangga Dua Blok A no.12",DKI Jakarta,Kota Jakarta Pusat,Mangga Dua Selatan,81314200539
+2019-10-16,94,3428055200.00,1611,Kp.ciputat jl masjid darususalam rt 02 rw 05 no 33 ciledug tangerang,Jawa Barat,Kota Tangerang,Tajur,6287880433111
+2019-10-17,34,3820382400.00,1753,Jalan Perjuangan No.10 Teluk Pucung,Jawa Barat,Kota Bekasi,Teluk Pucung,6281310537222
+2019-10-17,34,520906500.00,385,Pasar Rakyat Cengkareng blok F No.01 Depan Alfamart  Mutiara Taman Palem,DKI Jakarta,Kota Jakarta Barat,Jakarta Barat,6285275565870
+2019-10-17,33,202724600.00,259,Jl. Pemuda no. 29 kav. 9 rt.04 rw 13 kranji bekasi barat,Jawa Barat,Kota Bekasi,Kranji,62818124230
+2019-10-17,13,212882000.00,166,"Jl. Pramuka, Perum Pesona Faria Blok B6 RT 5 RW 12",Jawa Barat,Pancoran Mas,Depok,6282226655664
+2019-10-17,3,18317000.00,7944,Jl. Pangeran Antasari No. 130,Sumatera Selatan,15 Ilir,Palembang,6281386486433
+2019-10-17,46,1048126300.00,272,"Jl. Jelita Barat No.1, RT 04, RW 10",DKI Jakarta,Rawamangun,Jakarta Timur,628170007665
+2019-10-18,60,3088092600.00,930,Pluit timur residence blok cc selatan no.18,DKI Jakarta,Kota Jakarta Utara,Pluit,6281511428222
+2019-10-18,30,418221200.00,282,Jl lingkaran no 1096.A,Sumatera Selatan,Sawah Besar,Palembang,6289627231926
+2019-10-18,4,9645200.00,5011,Jl Jengki Cipinang Asem RT.02/ RW.11/ NO.22,DKI Jakarta,Kota Jakarta Timur,Kebon Pala,6282112000029
+2019-10-18,4,135319800.00,6931,Karang Anyar Jalan G No 9 A . RT 014 RW 007,DKI Jakarta,Jakarta Pusat,Karang Anyar,628159117088
+2019-10-18,19,2178325000.00,6432,"Ruko Ecopolis blok VD 01 No 28R citra raya  Jl. Ecopolis Citra Raya, Mekar Bakti,",Banten,Kab. Tangerang,Mekar Bakti,6282176182668
+2019-10-18,5,27113600.00,4128,Apartement Sentra Timur Residence Tower Abu Pulogebang Cakung  . patokan depan terminal Pulogebang,DKI Jakarta,Jakarta Timur,Pulogebang,6285225981981
+2019-10-18,3,17331600.00,820,"Jalan Raya Mauk KM 8.5, Komplek Paradise park residence blok H-3 (Samping SPBU Sulang), Sepatan",Banten,Kab. Tangerang,Pondok Jaya,628192007005
+2019-10-18,40,4877652000.00,1686,"Toko susu Natasha , jl. Raya kutabumi blok CD 2 no 10 - 11 , tangerang",Banten,Kab. Tangerang,Kuta Jaya,628119913992
+2019-10-18,7,162583800.00,115,Komplek Taman surya 1 Blok D No.5,DKI Jakarta,Kota Jakarta Barat,Wijaya Kusuma,6281314974499
+2019-10-18,4,44605000.00,1652,Jalan agung raya 1 Rt 03 Rw 03 no 3 c lenteng agung jakarta selatan,DKI Jakarta,Kota Jakarta Selatan,Lenteng Agung,6281333037778
+2019-10-18,89,16402740800.00,36,Ruko pasar segar Blok RA 1 No. 7-8,Jawa Barat,Kota Tangerang,Sukmajaya,6281293466439
+2019-10-18,16,267599200.00,1672,Jl pulau gebang permai rt 04 rw 04,DKI Jakarta,Kota Jakarta Timur,Pulo Gebang,6281315332779
+2019-10-18,70,4791010800.00,2237,"Jl. Gongseng Raya, RT.3/RW.9, Baru, Ps. Rebo, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13770",DKI Jakarta,Kota Jakarta Timur,Cijantung,6285777755557
+2019-10-19,56,1123076002.00,1608,Jalan Raya Sawangan No.02 RT.004 RW.01,Jawa Barat,Kota Depok,Pengasihan,6281310132706
+2019-10-19,2,395600.00,6680,Mustika Grande Jl. Mirah 2 Blok G16/06 RT 002 RW 013,Jawa Barat,Kab. Bekasi,Burangkeng,6283872680838
+2019-10-19,7,109520600.00,494,Jl.Keamanan No.54Jakarta Barat,DKI Jakarta,Kota Jakarta Barat,Keagungan,628129911576
+2019-10-19,20,417939000.00,3229,"Golf lake ruko venice blok B/60, Jl. lingkar luar barat",DKI Jakarta,Jakarta Barat,Cengkareng Timur,6287886660687
+2019-10-21,46,2200171800.00,132,Jl. Lampiri Raya RT 04 RW 02 Sebelah Indomaret Maya Persada,Jawa Barat,Kota Bekasi,Jatibening Baru,6281287008454
+2019-10-21,19,109255500.00,281,Jalan Indragiri raya Nomor 385 Rt.8 Rw. 5,Jawa Barat,Sukmajaya,Depok,6285780211345
+2019-10-21,3,144620000.00,7057,Jl Roda no 188 (pintu Gerbang Hijau),Jawa Barat,Kota Bogor,Babakan Pasae,62817-6909-189
+2019-10-21,16,503677200.00,1254,Bandar Susu Jalan Hadiah Ujung No.2,DKI Jakarta,Jakarta Barat,Jelambar,6281807363612
+2019-10-21,70,4812388000.00,713,Komplek perum cengkareng indah Jalan waru raya Blok DD No. 20 Samping indomaret waru 7,DKI Jakarta,Cengkareng,Jakarta Barat,628977988820
+2019-10-21,20,1689561400.00,5190,"Ruko Citra Raya Blok L.15 No.10-11, Jalan Citra Raya Boulevard,",Banten,Kab. Tangerang,Cikupa,6281808168668
+2019-10-21,5,13710352.00,834,"Pesona vista mekar sari blok C1 no.18, Jl KH. Umar rawa ilat",Jawa Barat,Kab. Bogor,Ragajaya,6282210476297
+2019-10-21,80,5289248000.00,2162,Jalan Bantar Jati Rt.007 Rw.02 Cipayung Jakarta Timur (Depan Tpu Bantar Jati),DKI Jakarta,Kota Jakarta Timur,Setu,6281298603338
+2019-10-21,53,17120020000.00,266,"Komplek Pergudangan DHI Blok B2 Dekat SPBE Pertamina,Telukgong",DKI Jakarta,Penjangalan,Jakarta Utara,6281296055260
+2019-10-21,49,1878313000.00,1227,Jalan Sunter Mas Barat 1 Blok H 9 No 11 RT 4 RW 7,DKI Jakarta,Kota Jakarta Utara,Sunter Jaya,62816758021
+2019-10-21,37,7689804800.00,4789,"Jl. Penggilingan Raya No.2, RT.1/RW.7",DKI Jakarta,Jakarta Timur,Penggilingan,6281808023418
+2019-10-21,8,114205000.00,6359,"Jln Duta Raya Blok K1 No.19, Taman Cibodas",Banten,Sangiang Jaya,Tangerang,6287805675670
+2019-10-21,45,673397700.00,312,Jl.tarumajaya raya no.33 Desa Setia Mulya Kec.Tarumajaya Kab.Bekasi,Jawa Barat,Kab. Bekasi,Setia Mulya,6281287085496
+2019-10-22,68,837052500.00,213,"Jl. Ampera 6 No. 23B, RT 8 RW 9",DKI Jakarta,Kota Jakarta Utara,Pademangan Barat,6281280081435
+2019-10-22,117,12975814100.00,209,"Perumahan Poris Indah, Blok G16 No.2 Tangerang 15122 Depan SMP 18",Banten,Tangerang,Poris Jaya,6282177777117
+2019-10-22,40,7592434500.00,3184,"Taman palem lestari, blok E15 no. 5.",DKI Jakarta,Kota Jakarta Barat,Jakarta Barat,62811881505
+2019-10-22,49,1916161600.00,963,RAYA KALIMALANG 88 (DEALER YAMAHA ARTA PRIMA),Jawa Barat,Kota Bekasi,Kayuringin Jaya,62811153880
+2019-10-23,34,807201800.00,227,Jl. Bina Husada Blok C 7 No 9 B Komplek Depkes,DKI Jakarta,Jakarta Utara,Sunter Jaya,6287775009088
